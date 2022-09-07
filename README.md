@@ -37,4 +37,5 @@ https://jsfiddle.net/mornejac/2bsqfun7/1/
 
 ## Video Overview
 
-The video provides an overview of the challenges faced while designing and implementing the application. 
+The following youtube video is an overview of the design and implemention of the application. 
+https://youtu.be/_FKDQh5-SoY
